@@ -1,6 +1,6 @@
 ### Tracker
 
-Issue Tracker
+Simple Issue Tracker built on Frappe and React.
 
 ### Installation
 
